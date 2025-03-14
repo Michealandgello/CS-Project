@@ -1,5 +1,9 @@
 # CS 3502 Project 1 - Multi-Threaded Programming and IPC
---
+
+This repository contains the code and documentation for my CS 3502 project, which focuses on **multi-threading** and **inter-process communication (IPC)** in C. The project includes implementations of a banking system with deadlock prevention and bidirectional IPC using pipes.
+
+---
+
 ## Setup Instructions
 
 To run this project, you'll need the following setup:
